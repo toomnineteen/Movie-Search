@@ -1,0 +1,19 @@
+h1 {
+    color: white;
+    margin: 10px 0;
+  }
+  p,
+  .container-about a {
+    color: white;
+    font-size: 1.3rem;
+    margin: 10px 0;
+  }
+  
+  .container-about {
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  

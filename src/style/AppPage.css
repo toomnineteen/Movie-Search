@@ -1,0 +1,40 @@
+.all-movie{
+    display: flex;
+    margin-top: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.all-movie a{
+    text-decoration: none;
+}
+
+.body-movie{
+    border: 1px solid goldenrod;
+    padding: 3px;
+    margin: 5px;
+}
+
+.body-movie{
+    cursor: pointer;
+}
+
+.movie-img{
+    text-align: center;
+}
+
+.movie-img img{
+    width: 200px;
+    height: 300px;
+}
+
+.movie-info{
+    margin-left: 5px;
+    color: wheat;
+}
+
+.movie-info p{
+    font-size: 14px;
+    color: wheat;
+}
